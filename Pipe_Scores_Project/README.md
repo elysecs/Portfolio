@@ -3,7 +3,7 @@
 ### Research Question
 Can material type, age, length, and operational score be used to predict the structural score of a utility pipe?
 
-<img src="../images/pipes.png" width="300" align="center">
+<img src="../images/pipes.png" width="700" align="center">
 
 ### Motivation
 Cities maintain intricate networks of gravity pipes which convey wastewater and drainage. This infrastructure is critical to maintaining public health and safety; failures can be catastrophic in terms of construction costs, property damage, and impacts to daily operations.
@@ -24,14 +24,10 @@ City of Sacramento pipe data
 * Machine Learning Model: Decision Tree Classifier
 
 ### Findings
-* Age and Structural Score were positively correlated. The correlation is not strong however as red dots (Structural Score = 5) are dispersed throughout.
-
-<img src="../images/pipe_conclusion.png" width="300" align="center">
+<img src="../images/pipe_finding.png" width="500" align="right">Age and Structural Score were positively correlated. The correlation is not strong however as red dots (Structural Score = 5) are dispersed throughout.
 
 ### Conclusion
-The classifier achieved an accuracy of 72% but was only predicting 0s and 3s. As the higher scores are more critical to identify, this model, as is, could not replace manual, visual inspection. 
-
-<img src="../images/pipe_conclusion.png" width="300" align="center">
+<img src="../images/pipe_conclusion.png" width="500" align="right">The classifier achieved an accuracy of 72% but was only predicting 0s and 3s. As the higher scores are more critical to identify, this model, as is, could not replace manual, visual inspection.
 
 ### Limitations
 Data:
