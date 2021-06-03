@@ -21,7 +21,7 @@ City of Sacramento pipe data
     * Material Type
     * Operational Score
 * Target: Structural Score (0-5)
-* Machine Learning Model: Decision Tree Classifier
+* Model: Decision Tree Classifier
 
 ### Findings
 Age and Structural Score were positively correlated. The correlation is not strong however as red dots (Structural Score = 5) are dispersed throughout.
