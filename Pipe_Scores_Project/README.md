@@ -14,14 +14,19 @@ City of Sacramento pipe data
 ### Method
 * Predictors:
     * Age
-    * System Type
     * Length
+    * System Type
     * Material Type
     * Operational Score
-* Target: Structural Score
+* Target: Structural Score (0-5)
 * Machine Learning Model: Decision Tree Classifier
 
-### Limitations
-
-
 ### Conclusion
+The classifier achieved an accuracy of 72% but was only predicting 0s and 3s. As the higher scores are more critical to identify, this model, as is, could not replace manual, visual inspection. 
+
+### Limitations
+Data:
+Utilities obviously try to fix pipes in a timely manner. Because this dataset consisted solely of pipes currently in the system, it was imbalanced towards pipes with low structural scores. Historic data of pipes that were replaced would improve the imbalance.
+
+Experience:
+As my first project in data science, I was not aware of the full breadth of model options. Being close to completing my Masters program, I now would be able to perform a model selection process, hyperparameter search, and address the imbalanced data.
