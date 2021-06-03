@@ -1,4 +1,4 @@
-# Elyse Cheung-Sutton Portfolion
+# Elyse Cheung-Sutton Portfolio
 Hi, my name is Elyse Cheung-Sutton and I am a data scientist looking to use data analysis and visualizations to make a positive impact on the world.
 
 ## Table of Contents
