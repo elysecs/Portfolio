@@ -24,10 +24,14 @@ City of Sacramento pipe data
 * Machine Learning Model: Decision Tree Classifier
 
 ### Findings
-<img src="../images/pipe_finding.png" width="500" align="right">Age and Structural Score were positively correlated. The correlation is not strong however as red dots (Structural Score = 5) are dispersed throughout.
+Age and Structural Score were positively correlated. The correlation is not strong however as red dots (Structural Score = 5) are dispersed throughout.
+
+<img src="../images/pipe_finding.png" width="500" align="right">
 
 ### Conclusion
-<img src="../images/pipe_conclusion.png" width="500" align="right">The classifier achieved an accuracy of 72% but was only predicting 0s and 3s. As the higher scores are more critical to identify, this model, as is, could not replace manual, visual inspection.
+The classifier achieved an accuracy of 72% but was only predicting 0s and 3s. As the higher scores are more critical to identify, this model, as is, could not replace manual, visual inspection.
+
+<img src="../images/pipe_conclusion.png" width="500" align="right">
 
 ### Limitations
 Data:
