@@ -49,18 +49,18 @@
 
 
 
-## Wildfires
+## Wildfires - [Kaggle](https://www.kaggle.com/edhirif/predict-the-causes-of-wildfires-using-python)
 <table border="0">
  <tr>
     <td><b style="font-size:16px">Original</b></td>
  </tr>
  <tr>
-    <td><img src="https://www.nps.gov/articles/images/2016_wolf_pop_chart-YS_1.jpg?maxwidth=1200&autorotate=false" width="900" align="center"></td>
+    <td><img src="https://raw.githubusercontent.com/elysecs/Portfolio/main/images/wildfire_og.png" width="600" align="center"></td>
 </tr>
  <tr>
     <td><b style="font-size:16px">Redesign</b></td>
  </tr>
   <tr>
-    <td><img src="https://raw.githubusercontent.com/elysecs/Portfolio/main/images/wildfire.jpg" width="900" align="center"></td>
+    <td><img src="https://raw.githubusercontent.com/elysecs/Portfolio/main/images/wildfire.jpg" width="600" align="center"></td>
 </tr>
 </table>
