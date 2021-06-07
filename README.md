@@ -4,5 +4,6 @@ Hi, my name is Elyse Cheung-Sutton and I am a data scientist looking to use data
 ## Table of Contents
  - Redesigned Visualizations
  - Predicting Utility Pipe Structural Scores
- - Image Compression with K-Means
+ - K-Means Exploration and Image Compression
+ - Comparing Feature Importance Strategies
  <!-- - Implementing Data Science Models from Scratch -->
