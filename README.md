@@ -5,5 +5,4 @@ Hi, my name is Elyse Cheung-Sutton and I am a data scientist looking to use data
  - Redesigned Visualizations
  - Predicting Utility Pipe Structural Scores
  - Image Compression with K-Means
- - Implementing Data Science Models from Scratch
- - Predicting Solar Generation from Weather Variables
+ <!-- - Implementing Data Science Models from Scratch -->
